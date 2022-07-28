@@ -13,3 +13,24 @@ cd to folder
 
 run : npm start
 
+
+Components:
+
+components refers user interface
+
+components types:
+
+	stateless Function componenet
+		javascript Functions
+		code 1
+
+	stateful class components
+		class extending component class
+		Render methon returning HTML
+		code2 2
+
+
+
+
+
+
