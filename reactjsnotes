@@ -1,0 +1,15 @@
+To create react file
+(have to install node.js )
+create a folder and open with vscode(optional cause i use vscode for total lesson)
+open a terminal console on loacal folder and run
+
+npx create-react-app <name>
+
+This will create a react lib folder for your work
+
+To run live server run
+
+cd to folder
+
+run : npm start
+
